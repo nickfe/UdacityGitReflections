@@ -1,0 +1,2 @@
+I've changed user.name and user.email
+This is a test to check whether author of new push will change.
