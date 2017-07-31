@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Maybe I need to work not on one single computer. Maybe someone else need to coorperate.
+    Maybe I need to work not on one single computer. Maybe someone else need to cooperate.
     And in case my computer broke down or what what. I can keep a copy at GitHub.
 
 Why might you want to always pull changes manually rather than having Git
@@ -28,3 +28,10 @@ and what would be harder?
     Every time before I make a change, I need to copy it from my coworkers, and
     after changing, I need to copy it to my coworkers to make sure that their new
     work is based on mine. Apparently it's easier to use Git or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    When collaborating with others, it's safer to work on a separate branch, since
+    my change may influence the master branch. And others could easily see what changes
+    have I made. However it's more convenient to make changes right on the master branch.
