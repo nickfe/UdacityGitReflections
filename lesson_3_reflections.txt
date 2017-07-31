@@ -16,3 +16,8 @@ use one instead of another?
     fork: like clone from other repository to my own (keep original information about the author)
     clone: clone from remote to local (pull from remote repository to local)
     branch: (when I work on some independent functions, I put them on different branches)
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    could make less conflict since your work is on the basis of the remote one
