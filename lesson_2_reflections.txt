@@ -17,3 +17,5 @@
 
 将两个分支合并到一起有何结果？为什么我们在图表中表示它的方式是那样的？
 根据先前的提交来决定增删什么内容
+
+add one line to make sure the commit latest message is in English
