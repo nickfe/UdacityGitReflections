@@ -9,3 +9,10 @@ automatically stay up-to-date with your remote repository?
 
     What if I made a change on my computer. Automatically update will recover it(since the change not on remote).
     Don't know whether I understand this question...
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    fork: like clone from other repository to my own (keep original information about the author)
+    clone: clone from remote to local (pull from remote repository to local)
+    branch: (when I work on some independent functions, I put them on different branches)
