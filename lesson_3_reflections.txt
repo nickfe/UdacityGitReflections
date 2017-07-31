@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    Maybe I need to work not on one single computer. Maybe someone else need to coorperate.
+    And in case my computer broke down or what what. I can keep a copy at GitHub.
