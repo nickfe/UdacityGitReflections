@@ -21,3 +21,10 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     could make less conflict since your work is on the basis of the remote one
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Every time before I make a change, I need to copy it from my coworkers, and
+    after changing, I need to copy it to my coworkers to make sure that their new
+    work is based on mine. Apparently it's easier to use Git or GitHub.
