@@ -3,3 +3,9 @@ local?
 
     Maybe I need to work not on one single computer. Maybe someone else need to coorperate.
     And in case my computer broke down or what what. I can keep a copy at GitHub.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    What if I made a change on my computer. Automatically update will recover it(since the change not on remote).
+    Don't know whether I understand this question...
